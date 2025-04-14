@@ -1,4 +1,4 @@
-## **SIMRIS: This project is focused on the development of a seismic risk simulator for Spanish residential buildings.**
+## **SIMRIS: Development of a Seismic Risk Simulator for Spanish Residential Buildings.**
 
 PI: Antonio Morales Esteban
 
