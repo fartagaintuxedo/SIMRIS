@@ -1,12 +1,8 @@
 ## **SIMRIS: This project is focused on the development of a seismic risk simulator for Spanish residential buildings.**
 
-PI:
+PI: Antonio Morales Esteban
 
-Antonio Morales Esteban
-
-Team:
-
-Amaro Mellado, José Lázaro
+Team: Amaro Mellado, José Lázaro
 de Justo Moscardó, Enrique
 de Miguel Rodríguez, Jaime
 Delgado Trujillo, Antonio
